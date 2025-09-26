@@ -25,8 +25,6 @@ Artificial intelligence and Data Science
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/vijesh_a?theme=dark&font=Roboto%20Slab&ext=heatmap)
 
-# 👨‍💻 CodeChef Stats
 
-![CodeChef Stats](https://codechef-readme-stats.onrender.com/vijesh_a?v=1)
 
 
