@@ -1,6 +1,9 @@
 ## Vijesh A
 
 Artificial intelligence and Data Science
+![Profile Views](https://komarev.com/ghpvc/?username=vijesharumugam&color=8B5CF6&style=for-the-badge&label=Profile+Views)
+![GitHub followers](https://img.shields.io/github/followers/vijesharumugam?style=for-the-badge&logo=github&color=8B5CF6&labelColor=000000)
+![GitHub User's stars](https://img.shields.io/github/stars/vijesharumugam?style=for-the-badge&logo=github&color=8B5CF6&labelColor=000000)
 
 [Linkedin](https://www.linkedin.com/in/vijesh-arumugam/)  | [Codolio](https://codolio.com/profile/vijesh26) | Vijesharumugam26@gmail.com
 
@@ -41,6 +44,7 @@ Artificial intelligence and Data Science
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=vijesharumugam&bg_color=0d1117&color=ff79c6&line=8be9fd&point=50fa7b&area=true&hide_border=false" />
 </p>
+
 
 
 
