@@ -1,6 +1,4 @@
-## Vijesh A
-
-Artificial intelligence and Data Science
+<img width="1584" height="396" alt="Image" src="https://github.com/user-attachments/assets/582769e6-da27-4386-b0fb-bf7f39f4b298" />
 <br>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=vijesharumugam&color=8B5CF6&style=for-the-badge&label=Profile+Views)
@@ -60,6 +58,7 @@ Artificial intelligence and Data Science
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vijesharumugam/vijesharumugam/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/vijesharumugam/vijesharumugam/output/github-snake.svg" />
 </picture>
+
 
 
 
