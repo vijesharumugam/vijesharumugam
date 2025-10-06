@@ -21,9 +21,27 @@ Artificial intelligence and Data Science
 - Git & GitHub
 - REST APIs
 ### Workspace
-- Leetcode
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/vijesh_a?theme=dark&font=Roboto%20Slab&ext=heatmap)
+## 📊 GitHub Stats
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=vijesharumugam&show_icons=true&theme=radical&count_private=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vijesharumugam&layout=compact&theme=radical" />
+</p>
+
+---
+
+## 🏆 LeetCode Stats
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/vijesh_a?theme=dark&ext=heatmap" alt="LeetCode Stats" />
+</p>
+
+---
+
+## 🔥 GitHub Activity
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vijesharumugam&bg_color=0d1117&color=ff79c6&line=8be9fd&point=50fa7b&area=true&hide_border=false" />
+</p>
+
 
 
 
