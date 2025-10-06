@@ -9,7 +9,7 @@ Artificial intelligence and Data Science
 
 [Linkedin](https://www.linkedin.com/in/vijesh-arumugam/)  | [Codolio](https://codolio.com/profile/vijesh26) | Vijesharumugam26@gmail.com
 
-## 🛠️ Skills
+##  Skills
 
 ### Programming Languages
 - Python
@@ -35,19 +35,31 @@ Artificial intelligence and Data Science
 
 ---
 
-## 🏆 LeetCode Stats
+##  LeetCode Stats
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/vijesh_a?theme=dark&ext=heatmap" alt="LeetCode Stats" />
 </p>
 
 ---
 
-## 🔥 GitHub Activity
+##  GitHub Activity
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=vijesharumugam&bg_color=0d1117&color=ff79c6&line=8be9fd&point=50fa7b&area=true&hide_border=false" />
 </p>
+## 🔥 GitHub Activity
+<p >
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vijesharumugam&bg_color=0d1117&color=ff79c6&line=8be9fd&point=50fa7b&area=true&hide_border=false" />
+</p>
 
+---
 
+## 🐍 GitHub Contribution Snake  
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vijesharumugam/vijesharumugam/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vijesharumugam/vijesharumugam/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/vijesharumugam/vijesharumugam/output/github-snake.svg" />
+</picture>
 
 
 
