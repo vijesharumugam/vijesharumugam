@@ -101,10 +101,39 @@
 </div>
 
 ## Contibution activities
-<div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=vijesharumugam&bg_color=0d1117&color=8b5cf6&line=c084fc&point=a78bfa&area=true&hide_border=true" alt="GitHub Activity Graph" /> </div>
+<div > <img src="https://github-readme-activity-graph.vercel.app/graph?username=vijesharumugam&bg_color=0d1117&color=8b5cf6&line=c084fc&point=a78bfa&area=true&hide_border=true" alt="GitHub Activity Graph" /> </div>
 
 ## Contribution Snake
-<div align="center"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vijesharumugam/vijesharumugam/output/github-snake-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vijesharumugam/vijesharumugam/output/github-snake.svg" /> <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/vijesharumugam/vijesharumugam/output/github-snake.svg" /> </picture> </div>
+<div > <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vijesharumugam/vijesharumugam/output/github-snake-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vijesharumugam/vijesharumugam/output/github-snake.svg" /> <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/vijesharumugam/vijesharumugam/output/github-snake.svg" /> </picture> </div>
 
 ## Git Throphies
-<div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=vijesharumugam&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies" /> </div>
+<div > <img src="https://github-profile-trophy.vercel.app/?username=vijesharumugam&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies" /> </div>
+
+# Leetcode Statistics
+<div > <img src="https://leetcard.jacoblin.cool/vijesh_a?theme=dark&font=Noto%20Sans&ext=heatmap" alt="LeetCode Stats" /> </div>
+
+---
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=dev" alt="Random Dev Quote">
+</div>
+
+<div align="center">
+
+## Let's Connect
+
+I'm always interested in collaborating on innovative projects and discussing new technologies. Feel free to reach out!
+
+<br />
+
+<!-- LinkedIn -->
+<a href="https://www.linkedin.com/in/vijesh-arumugam/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+
+<!-- Email -->
+<a href="mailto:vijesharumugam26@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+
+</div>
+
