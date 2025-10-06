@@ -119,7 +119,6 @@
 
 <div align="center">
 
-## Let's Connect
 
 I'm always interested in collaborating on innovative projects and discussing new technologies. Feel free to reach out!
 
@@ -136,4 +135,5 @@ I'm always interested in collaborating on innovative projects and discussing new
 </a>
 
 </div>
+
 
