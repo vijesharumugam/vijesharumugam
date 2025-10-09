@@ -103,11 +103,13 @@
 ## Contibution activities
 <div > <img src="https://github-readme-activity-graph.vercel.app/graph?username=vijesharumugam&bg_color=0d1117&color=8b5cf6&line=c084fc&point=a78bfa&area=true&hide_border=true" alt="GitHub Activity Graph" /> </div>
 
-## Contribution Snake
-<div > <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vijesharumugam/vijesharumugam/output/github-snake-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vijesharumugam/vijesharumugam/output/github-snake.svg" /> <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/vijesharumugam/vijesharumugam/output/github-snake.svg" /> </picture> </div>
+
 
 ## Git Throphies
 <div > <img src="https://github-profile-trophy.vercel.app/?username=vijesharumugam&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies" /> </div>
+
+## Contribution Snake
+<div > <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vijesharumugam/vijesharumugam/output/github-snake-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vijesharumugam/vijesharumugam/output/github-snake.svg" /> <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/vijesharumugam/vijesharumugam/output/github-snake.svg" /> </picture> </div>
 
 # Leetcode Statistics
 <div > <img src="https://leetcard.jacoblin.cool/vijesh_a?theme=dark&font=Noto%20Sans&ext=heatmap" alt="LeetCode Stats" /> </div>
@@ -135,6 +137,7 @@ I'm always interested in collaborating on innovative projects and discussing new
 </a>
 
 </div>
+
 
 
 
