@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=300&section=header&text=VIJESH%20A&fontSize=90&fontAlignY=40&fontColor=ffffff&animation=fadeIn&desc=Full%20Stack%20Developer%20|%20Problem%20Solver&descSize=20&descAlignY=60" alt="Header" />
 
 </div>
-
+dxcfgvhbjnkl,;
 ---
 
 ##  About Me
@@ -135,6 +135,7 @@ I'm always interested in collaborating on innovative projects and discussing new
 </a>
 
 </div>
+
 
 
 
