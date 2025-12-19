@@ -4,7 +4,6 @@
 
 </div>
 ---
-dxcfgvhbjnkml,;.
 
 ##  About Me
 - Full Stack Developer passionate about building scalable applications  
@@ -135,6 +134,7 @@ I'm always interested in collaborating on innovative projects and discussing new
 </a>
 
 </div>
+
 
 
 
